@@ -1,2 +1,3 @@
 # Aporte2
-probando
+Algunas colaboraciones que pueden ser de ayuda para mis compañeros
+
