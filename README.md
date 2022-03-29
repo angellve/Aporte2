@@ -1,3 +1,4 @@
 # SUPPORT
-Algunas colaboraciones que pueden ser de ayuda para mis compañeros
+some featuring for help to my learning
+
 
